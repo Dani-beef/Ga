@@ -1,0 +1,11 @@
+<?php
+
+$db['server_name'] = 'DB_HOST';
+$db['username'] = 'DB_USER';
+$db['password'] = 'DB_PASS';
+$db['name'] = 'DB_NAME';
+$db['port'] = DB_PORT;
+
+return $db;
+
+?>
