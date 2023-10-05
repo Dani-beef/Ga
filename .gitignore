@@ -1,0 +1,5 @@
+includes/cache/**
+includes/vendor/**
+includes/templates_c/**
+includes/database_info.php
+composer.lock
